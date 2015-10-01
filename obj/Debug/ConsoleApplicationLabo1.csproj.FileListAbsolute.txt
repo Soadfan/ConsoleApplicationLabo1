@@ -1,0 +1,6 @@
+U:\Bac3\Bac3Iesn\Environnement Développement Logiciel\ConsoleApplicationLabo1\ConsoleApplicationLabo1\bin\Debug\ConsoleApplicationLabo1.exe.config
+U:\Bac3\Bac3Iesn\Environnement Développement Logiciel\ConsoleApplicationLabo1\ConsoleApplicationLabo1\obj\Debug\ConsoleApplicationLabo1.csprojResolveAssemblyReference.cache
+U:\Bac3\Bac3Iesn\Environnement Développement Logiciel\ConsoleApplicationLabo1\ConsoleApplicationLabo1\bin\Debug\ConsoleApplicationLabo1.exe
+U:\Bac3\Bac3Iesn\Environnement Développement Logiciel\ConsoleApplicationLabo1\ConsoleApplicationLabo1\bin\Debug\ConsoleApplicationLabo1.pdb
+U:\Bac3\Bac3Iesn\Environnement Développement Logiciel\ConsoleApplicationLabo1\ConsoleApplicationLabo1\obj\Debug\ConsoleApplicationLabo1.exe
+U:\Bac3\Bac3Iesn\Environnement Développement Logiciel\ConsoleApplicationLabo1\ConsoleApplicationLabo1\obj\Debug\ConsoleApplicationLabo1.pdb
